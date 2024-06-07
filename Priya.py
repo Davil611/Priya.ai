@@ -4,7 +4,7 @@ import requests
 from telegram import Bot, Update, Message
 
 # Bot token
-token = "YOUR_BOT_TOKEN"
+token = "6974754474:AAG_oLPrw2hMgT9y0ewQqY70XsWfqtBqckI"
 
 # Get the bot
 bot = Bot(token=token)
